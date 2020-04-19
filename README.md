@@ -1,4 +1,9 @@
 # cps-sec
 2020년 1학기 cps 실습 수업
 
- ## 산업보안학과 이상윤
+## 학생
+
+
+    -이상윤
+        -email lsyun0913@naver.com
+        
